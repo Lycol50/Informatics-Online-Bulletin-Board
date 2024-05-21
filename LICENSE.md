@@ -3,6 +3,7 @@
 This Commercial Software License ("License") governs the use of the web-based system ("Software") developed by Frizth Lyco Tatierra/TheDawnPH, TheDawnPH Development ("Licensor"). By using the Software, the licensee ("Client") agrees to comply with the terms and conditions outlined in this License.
 
 1. **License Grant**
+
    Subject to the terms and conditions of this License and the payment of all applicable fees, Licensor grants Client a non-exclusive, non-transferable, limited license to use, modify, and distribute the Software for internal business purposes.
 
 2. **Payment Terms**
@@ -30,9 +31,11 @@ This Commercial Software License ("License") governs the use of the web-based sy
    - IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 7. **Governing Law**
+
    This License shall be governed by and construed in accordance with the laws of the Philippines, without regard to its conflict of laws principles.
 
 8. **Entire Agreement**
+
    This License constitutes the entire agreement between the parties with respect to the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
 
 © 2024 Frizth Lyco Tatierra/TheDawnPH, TheDawnPH Development. All rights reserved.
