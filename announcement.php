@@ -12,10 +12,10 @@ $sql = "SELECT * FROM announcements WHERE announcement_id = '$announcement_id'";
 $result = mysqli_query($conn, $sql);
 $announcement = mysqli_fetch_assoc($result);
 
-if (mysqli_num_rows($result) == 0) {
+/* if (mysqli_num_rows($result) == 0) {
     header("location: 404.php");
     exit;
-}
+} */
 
 // convert sql new lines to html new lines
 $announcement['description'] = nl2br($announcement['description']);
